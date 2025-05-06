@@ -37,4 +37,9 @@ next-env.d.ts
 .idea/
 .vscode/
 *.swp
-*.swo 
+*.swo
+
+# images
+public/*.jpg
+public/services/*.jpg
+public/testimonials/*.jpg 
