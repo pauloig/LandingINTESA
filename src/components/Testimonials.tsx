@@ -8,19 +8,19 @@ const testimonials = [
     name: 'John Doe',
     role: 'CEO at Company',
     content: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores repellat perspiciatis aspernatur quis voluptatum porro incidunt, libero sequi quos eos velit',
-    image: '/testimonials/john.jpg',
+    image: '/testimonials/john.webp',
   },
   {
     name: 'Sarah Smith',
     role: 'Marketing Director',
     content: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores repellat perspiciatis aspernatur quis voluptatum porro incidunt, libero sequi quos eos velit',
-    image: '/testimonials/sarah.jpg',
+    image: '/testimonials/sarah.webp',
   },
   {
     name: 'Michael Johnson',
     role: 'Business Owner',
     content: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores repellat perspiciatis aspernatur quis voluptatum porro incidunt, libero sequi quos eos velit',
-    image: '/testimonials/michael.jpg',
+    image: '/testimonials/michael.webp',
   },
 ]
 

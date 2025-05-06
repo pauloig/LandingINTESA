@@ -7,17 +7,17 @@ const services = [
   {
     title: 'Social Media Marketing',
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores repellat perspiciatis aspernatur quis voluptatum porro incidunt, libero sequi quos eos velit',
-    image: '/services/social.jpg',
+    image: '/services/social.webp',
   },
   {
     title: 'Amazon Affiliate Marketing',
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores repellat perspiciatis aspernatur quis voluptatum porro incidunt, libero sequi quos eos velit',
-    image: '/services/amazon.jpg',
+    image: '/services/amazon.webp',
   },
   {
     title: 'Email Marketing',
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores repellat perspiciatis aspernatur quis voluptatum porro incidunt, libero sequi quos eos velit',
-    image: '/services/email.jpg',
+    image: '/services/email.webp',
   },
 ]
 

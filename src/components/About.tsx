@@ -42,7 +42,7 @@ export default function About() {
             className="relative h-[500px]"
           >
             <Image
-              src="/about.jpg"
+              src="/about.webp"
               alt="About Us"
               fill
               className="object-cover rounded-lg"
